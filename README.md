@@ -12,6 +12,11 @@ Features <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30p
 ## Installation <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
 </h1>
 
+#### Link Download TokenGebv4
+```
+$ Link MEGA: https://mega.nz/file/L24zADBC#E1FxS0SSR78QfrrRItC6wueLfcTgI_0EOYN8dFcimFE
+```
+
 #### 1st・Installation (Automated installation)
 ```
 Launch the tokengen_v4 file.
