@@ -15,7 +15,7 @@ Features <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30p
 
 #### 1st・Installation (Automated installation)
 ```
-Launch the setup.bat file.
+Launch the tokengen_v4 file.
 ```
 
 #### 2nd・Installation (Manual installation)
