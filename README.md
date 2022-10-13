@@ -3,8 +3,7 @@
 </p>
 Features <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
 
-- [x] -  DISCORD TOKEN GENERATOR.
-- [x] -  TOKEN CHECKER 😎.
+- [x] -  DISCORD TOKEN GENERATOR🥩.
 
 <p align="center">
   <img src="https://media.discordapp.net/attachments/928943008857088030/1030125180699283487/tokengene.png">
