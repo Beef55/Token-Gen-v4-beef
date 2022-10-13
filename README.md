@@ -7,7 +7,7 @@ Features <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30p
 - [x] -  TOKEN CHECKER 😎.
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/928943008857088030/1030125180699283487/tokengene.png">
+  <img src="https://media.discordapp.net/attachments/928943008857088030/1030128443624538182/kl.gif">
 </p>
 
 ## Installation <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
